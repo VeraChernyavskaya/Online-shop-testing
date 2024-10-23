@@ -7,3 +7,6 @@
    + [эквивалентное разбиение и анализ граничных значений для формы регистрации](https://docs.google.com/spreadsheets/d/1zBvCABgydkdPO7PK34yD-b61jpOar4HbtSRpRvFGLOY/edit?usp=sharing);
    + [попарное тестирование фильтрации и сортировки](https://docs.google.com/spreadsheets/d/1T7HiM0dAddVatXjkVd-wgk4bw9cmlm_4WgugOGdE8yw/edit?usp=sharing);
    + [таблица принятия решений для модуля оплаты PayPal](https://docs.google.com/spreadsheets/d/1N_Hn2f230fFjhYC9tt3asU_BvEX07fhYfaOl6-onweo/edit?usp=sharing)
+3. Подготовила [тест-план](https://docs.google.com/spreadsheets/d/10qfgA5-MUvRUFvLZ-GSaot4DtnVpZNoFbvENV9yz1_U/edit?usp=sharing);
+4. Разработала [чек-лист](https://docs.google.com/spreadsheets/d/1ngNsHvZwuX0jPkccQRSUuW3FFiStCBXlKAJ4lRzaEtw/edit?usp=sharing);
+5. Подготовила тест-кейсы для [регистрации, логина, каталога](https://github.com/VeraChernyavskaya/docs/blob/main/Chernyavskaya_Test_cases_240827.pdf), [корзины и истории заказов](https://github.com/VeraChernyavskaya/web/blob/main/Chernyavskaya_Test-case_web_240907.pdf);
