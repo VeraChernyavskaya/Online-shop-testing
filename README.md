@@ -9,4 +9,5 @@
    + [таблица принятия решений для модуля оплаты PayPal](https://docs.google.com/spreadsheets/d/1N_Hn2f230fFjhYC9tt3asU_BvEX07fhYfaOl6-onweo/edit?usp=sharing)
 3. Подготовила [тест-план](https://docs.google.com/spreadsheets/d/10qfgA5-MUvRUFvLZ-GSaot4DtnVpZNoFbvENV9yz1_U/edit?usp=sharing);
 4. Разработала [чек-лист](https://docs.google.com/spreadsheets/d/1ngNsHvZwuX0jPkccQRSUuW3FFiStCBXlKAJ4lRzaEtw/edit?usp=sharing);
-5. Подготовила тест-кейсы для [регистрации, логина, каталога](https://github.com/VeraChernyavskaya/docs/blob/main/Chernyavskaya_Test_cases_240827.pdf), [корзины и истории заказов](https://github.com/VeraChernyavskaya/web/blob/main/Chernyavskaya_Test-case_web_240907.pdf);
+5. Подготовила в Qase тест-кейсы для [регистрации, логина, каталога](https://github.com/VeraChernyavskaya/docs/blob/main/Chernyavskaya_Test_cases_240827.pdf), [корзины и истории заказов](https://github.com/VeraChernyavskaya/web/blob/main/Chernyavskaya_Test-case_web_240907.pdf);
+6. Создала отчеты о дефекте для [регистрации, логина, каталога](https://github.com/VeraChernyavskaya/docs/blob/main/Chernyavskaya_bug_report_240828.xlsx), [корзины и истории заказов](https://github.com/VeraChernyavskaya/web/blob/main/Chernyavskaya_bug_report_20240908.xlsx).
