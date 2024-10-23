@@ -1,4 +1,4 @@
-# Online-shop-testing
+# Online-shop-testing WEB
 
 Провела тестирование онлайн магазина [demoshopping.ru](https://qa.demoshopping.ru/), а именно:
 
